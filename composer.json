@@ -1,0 +1,8 @@
+{
+    "require": {
+        "respect/validation": "^1.1",
+        "swiftmailer/swiftmailer": "^5.4",
+        "vlucas/phpdotenv": "^2.4",
+        "slim/csrf": "^0.8.1"
+    }
+}
